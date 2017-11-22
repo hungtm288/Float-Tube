@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/white"
+    android:id="@+id/mainBG"
+    tools:context="com.floatvideo.popup.fragments.detail.VideoDetailFragment">
+
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="@string/main_bg_subtitle"
+        android:layout_marginTop="30dp"
+        android:textSize="18sp"
+        android:textColor="@android:color/tertiary_text_dark"
+        android:id="@+id/mainBGSubtitle"
+        android:layout_gravity="center_horizontal" />
+
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="@string/app_description"
+        android:gravity="center"
+        android:textSize="30sp"
+        android:visibility="gone"
+        android:textColor="@android:color/black"
+        android:textAllCaps="true"
+        android:fontFamily="sans-serif-condensed"
+        android:layout_marginTop="30dp"
+        android:id="@+id/mainBGTitle"
+        android:layout_gravity="center_horizontal" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="@string/description"
+        android:textSize="16sp"
+        android:visibility="gone"
+        android:layout_marginTop="20dp"
+        android:textColor="@android:color/black"
+        android:layout_gravity="center_horizontal" />
+
+</LinearLayout>

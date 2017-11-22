@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="thumbs_up" format="reference"/>
+    <attr name="thumbs_down" format="reference"/>
+    <attr name="audio" format="reference"/>
+    <attr name="download" format="reference"/>
+    <attr name="share" format="reference"/>
+    <attr name="cast" format="reference"/>
+    <attr name="rss" format="reference"/>
+    <attr name="search" format="reference"/>
+    <attr name="close" format="reference"/>
+    <attr name="filter" format="reference"/>
+    <attr name="popup" format="reference"/>
+    <attr name="expand" format="reference"/>
+    <attr name="collapse" format="reference"/>
+    <attr name="volume_off" format="reference"/>
+    <attr name="separatorColor" format="color"/>
+</resources>

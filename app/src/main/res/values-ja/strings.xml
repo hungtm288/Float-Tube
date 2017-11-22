@@ -1,0 +1,191 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+    <string name="upload_date_text">%1$s に公開</string>
+    <string name="no_player_found">ｽﾄﾘｰﾑのﾌﾟﾚｲﾔｰが見つかりません｡VLC を入手しますか｡</string>
+    <string name="install">入手</string>
+    <string name="cancel">取り消し</string>
+    <string name="open_in_browser">ﾌﾞﾗｳｻﾞｰで開く</string>
+    <string name="share">共有</string>
+    <string name="download">保存</string>
+    <string name="search">検索</string>
+    <string name="settings">設定</string>
+    <string name="did_you_mean">%1$s の間違いではありませんか</string>
+    <string name="share_dialog_title">共有</string>
+    <string name="choose_browser">ﾌﾞﾗｳｻﾞｰを選択</string>
+    <string name="screen_rotation">回転</string>
+    <string name="download_path_title">動画を保存する場所</string>
+    <string name="download_path_summary">動画を保存する位置</string>
+    <string name="download_path_dialog_title">動画を保存する場所を入力して下さい</string>
+    <string name="default_resolution_title">基本解像度</string>
+    <string name="play_with_kodi_title">Kodi で再生</string>
+    <string name="kore_not_found">Koreが見つかりません｡Kore を入手しますか｡</string>
+    <string name="show_play_with_kodi_title">\"Kodi で再生\" 設定を表示</string>
+    <string name="show_play_with_kodi_summary">Kodi ﾒﾃﾞｨｱｾﾝﾀｰ経由で動画を再生するための設定を表示します</string>
+    <string name="play_audio">音楽</string>
+    <string name="default_audio_format_title">基本の音楽形式</string>
+    <string name="webm_description">WebM形式</string>
+    <string name="m4a_description">m4a形式</string>
+    <string name="download_dialog_title">保存</string>
+    <string name="next_video_title">次の動画</string>
+    <string name="show_next_and_similar_title">次の同様の動画を表示します</string>
+    <string name="url_not_supported_toast">URLは使用できません</string>
+    <string name="search_language_title">優先言語</string>
+    <string name="settings_category_video_audio_title">動画と音楽</string>
+    <string name="view_count_text">%1$s ﾋﾞｭｰ</string>
+    <string name="list_thumbnail_view_description">動画 プレビュー サムネイル</string>
+    <string name="detail_thumbnail_view_description">動画 プレビュー サムネイル</string>
+    <string name="detail_uploader_thumbnail_view_description">アップローダー サムネイル</string>
+    <string name="detail_dislikes_img_view_description">不適切</string>
+    <string name="detail_likes_img_view_description">好ましい</string>
+    <string name="use_external_video_player_title">外部ﾌﾟﾚｲﾔｰを使用する</string>
+    <string name="use_external_audio_player_title">外部ﾌﾟﾚｲﾔｰを使用する</string>
+    <string name="background_player_playing_toast">背後で再生しています</string>
+
+    <string name="play_btn_text">再生</string>
+
+    <string name="use_tor_title">Torを使用する</string>
+    <string name="use_tor_summary">(実験的) 強制的に Tor を経由した経路で保存して､匿名性を高めます(動画の同時再生は未だ対応していません)｡</string>
+    <string name="theme_title">外観</string>
+    <string name="dark_theme_title">暗</string>
+    <string name="light_theme_title">明</string>
+
+    <string name="settings_category_appearance_title">外観</string>
+    <string name="settings_category_other_title">その他</string>
+    <string name="network_error">通信に異常</string>
+
+    <string name="download_path_audio_title">音楽を保存する場所</string>
+    <string name="download_path_audio_summary">音楽を保存する位置</string>
+    <string name="download_path_audio_dialog_title">音楽ﾌｧｲﾙをﾀﾞｳﾝﾛｰﾄﾞする位置を入力して下さい｡</string>
+
+    <string name="err_dir_create">保存場所 \'%1$s\' を作成できません</string>
+    <string name="info_dir_created">保存場所 \'%1$s\' を作成しました</string>
+    <string name="general_error">異常</string>
+    <string name="could_not_load_thumbnails">全てのｻﾑﾈｲﾙを読み込むことができません</string>
+    <string name="youtube_signature_decryption_error">動画のURL署名を復号できませんでした</string>
+    <string name="parsing_error">Webｻｲﾄを解析できませんでした</string>
+    <string name="content_not_available">ｺﾝﾃﾝﾂがありません</string>
+    <string name="blocked_by_gema">GEMA によって阻止されました</string>
+
+    <string name="could_not_setup_download_menu">保存ﾒﾆｭｰを設定できませんでした</string>
+
+
+    <string name="live_streams_not_supported">生放送には対応していません</string>
+
+
+    <string name="content">内容</string>
+    <string name="show_age_restricted_content_title">年齢制限解除</string>
+    <string name="video_is_age_restricted">この動画には､年齢制限があります｡設定から制限を解除して下さい｡</string>
+
+    <string name="light_parsing_error">Webｻｲﾄを完全には解析できませんでした</string>
+    <string name="could_not_get_stream">ｽﾄﾘｰﾑを取得できませんでした</string>
+    <string name="sorry_string">申し訳ありません。発生すべきではありませんでした。</string>
+    <string name="error_report_button_text">ﾒｰﾙで不具合を報告</string>
+    <string name="error_snackbar_message">複数の不具合が発生しました</string>
+    <string name="error_snackbar_action">報告</string>
+    <string name="what_device_headline">情報:</string>
+    <string name="what_happened_headline">何が起こりましたか:</string>
+    <string name="your_comment">あなたの意見(英語で):</string>
+    <string name="error_details_headline">詳細:</string>
+
+
+    <string name="video">動画</string>
+    <string name="audio">音楽</string>
+    <string name="retry">再試行</string>
+    <string name="storage_permission_denied">記録領域への接続要求が拒否されました</string>
+    <string name="autoplay_by_calling_app_title">呼び出し</string>
+    <string name="autoplay_by_calling_app_summary">NewPipeが他のｱﾌﾟﾘｹｰｼｮﾝから呼び出された際に､自動的に動画を再生します｡</string>
+    <string name="report_error">不具合を報告</string>
+    <string name="user_report">利用者報告</string>
+
+    <string name="duration_live">生放送</string>
+
+    <string name="main_bg_subtitle">検索を選択して開始</string>
+    <string name="start">開始</string>
+    <string name="pause">一時停止</string>
+    <string name="view">表示</string>
+    <string name="delete">削除</string>
+    <string name="checksum">整合性検査</string>
+
+    <string name="add">新しいミッション</string>
+    <string name="finish">OK</string>
+
+    <string name="msg_name">ﾌｧｲﾙ名</string>
+    <string name="msg_threads">同時接続数</string>
+    <string name="msg_error">異常</string>
+    <string name="msg_server_unsupported">ｻｰﾊﾞｰが対応していません</string>
+    <string name="msg_exists">ﾌｧｲﾙが既に存在します</string>
+    <string name="msg_url_malform">URL の形式が正しくないか､通信が利用できません</string>
+    <string name="msg_running">NewPipeの保存中</string>
+    <string name="msg_running_detail">詳細はﾀｯﾌﾟ</string>
+    <string name="msg_wait">暫くお待ち下さい</string>
+    <string name="msg_copied">ｸﾘｯﾌﾟﾎﾞｰﾄﾞに複製しました</string>
+    <string name="no_available_dir">利用可能な保存場所を選択して下さい</string>
+
+    <string name="downloads">保存</string>
+    <string name="downloads_title">保存</string>
+    <string name="error_report_title">不具合報告</string>
+
+    <string name="could_not_load_image">画像を読み込みできません</string>
+
+    <string name="app_ui_crash">ｱﾌﾟﾘ/UI がｸﾗｯｼｭしました</string>
+    <string name="info_labels">何:\\n提案:\\nｺﾝﾃﾝﾂ言語:\\nｻｰﾋﾞｽ:\\nGMT 時間:\\nﾊﾟｯｹｰｼﾞ:\\nﾊﾞｰｼﾞｮﾝ:\\nOS ﾊﾞｰｼﾞｮﾝ:\\nｸﾞﾛｰﾊﾞﾙ IP 範囲:</string>
+    <string name="reCaptchaActivity">reCAPTCHA</string>
+    <string name="reCaptcha_title">reCAPTCHA の要求</string>
+
+    <string name="recaptcha_request_toast">reCAPTCHA を要求しました</string>
+
+    <string name="black_theme_title">黒</string>
+
+    <string name="all">全て</string>
+    <string name="channel">ﾁｬﾝﾈﾙ</string>
+
+    <string name="videos">動画</string>
+    <string name="subscriber">購読者</string>
+    <string name="views">表示</string>
+    <string name="short_thousand">K</string>
+    <string name="short_million">000000</string>
+    <string name="short_billion">000000000</string>
+
+    <string name="yes">はい</string>
+    <string name="later">後で</string>
+
+    <string name="subscribe">購読</string>
+
+    <string name="open_in_popup_mode">ポップアップモードで開く</string>
+    <string name="msg_popup_permission">ポップアップモードで開くには
+このアクセス許可が必要です</string>
+
+    <string name="popup_mode_share_menu_title">NewPipe ポップアップモード</string>
+
+    <string name="popup_playing_toast">ポップアップモードで再生中</string>
+    <string name="use_old_player_title">古いプレーヤーを使用する</string>
+    <string name="use_old_player_summary">Mediaframework プレーヤーの古いビルド。</string>
+    <string name="disabled">無効</string>
+
+    <string name="preferred_video_format_title">お好みのビデオ フォーマット</string>
+    <string name="subscriber_plural">購読者</string>
+    <string name="default_popup_resolution_title">デフォルトのポップアップ解像度</string>
+    <string name="show_higher_resolutions_title">高い解像度で表示</string>
+    <string name="show_higher_resolutions_summary">一部のデバイスのみ 2K/4K ビデオの再生をサポートしています</string>
+    <string name="controls_background_title">背景</string>
+    <string name="controls_popup_title">ポップアップ</string>
+
+    <string name="filter">フィルター</string>
+    <string name="refresh">更新</string>
+    <string name="clear">クリア</string>
+
+    <string name="popup_remember_size_pos_title">ポップアップのサイズと位置を記憶する</string>
+    <string name="popup_remember_size_pos_summary">最後のサイズと位置を記憶してポップアップを設定します</string>
+
+    <string name="settings_category_popup_title">ポップアップ</string>
+    <string name="popup_resizing_indicator_title">サイズを変更</string>
+
+    <string name="use_external_video_player_summary">このオプションが有効になっているとき、一部の解像度ではオーディオがありません</string>
+    <string name="player_gesture_controls_title">プレーヤーのジェスチャー コントロール</string>
+    <string name="player_gesture_controls_summary">プレーヤーの明るさと音量をコントロールするのにジェスチャーを使用します</string>
+    <string name="show_search_suggestions_title">検索候補</string>
+    <string name="show_search_suggestions_summary">検索時に候補を表示します</string>
+
+<string name="best_resolution">最適な解像度</string>
+
+    </resources>

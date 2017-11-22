@@ -1,0 +1,187 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+    <string name="view_count_text">%1$s приказа</string>
+    <string name="upload_date_text">Објављен %1$s</string>
+    <string name="no_player_found">Нема плејера токова. Желите ли да инсталирате ВЛЦ?</string>
+    <string name="install">Инсталирај</string>
+    <string name="cancel">Одустани</string>
+    <string name="open_in_browser">Отвори у прегледачу</string>
+    <string name="share">Дели</string>
+    <string name="download">Преузми</string>
+    <string name="search">Тражи</string>
+    <string name="settings">Поставке</string>
+    <string name="did_you_mean">Да ли сте мислили: %1$s ?</string>
+    <string name="share_dialog_title">Подели помоћу</string>
+    <string name="choose_browser">Отвори помоћу</string>
+    <string name="screen_rotation">ротација</string>
+    <string name="download_path_title">Одредиште преузимања за видео</string>
+    <string name="download_path_summary">Путања за упис преузетих видеа.</string>
+    <string name="download_path_dialog_title">Унесите путању за преузимање видеа</string>
+    <string name="default_resolution_title">Подразумевана резолуција</string>
+    <string name="play_with_kodi_title">Пусти помоћу Кодија</string>
+    <string name="kore_not_found">Апликација Кор (Kore) није нађена. Инсталирати Кор?</string>
+    <string name="show_play_with_kodi_title">Прикажи „Пусти помоћу Кодија“</string>
+    <string name="show_play_with_kodi_summary">Приказ опције за пуштање видеа у Коди медија центру.</string>
+    <string name="play_audio">Аудио</string>
+    <string name="default_audio_format_title">Подразумевани формат звука</string>
+    <string name="webm_description">WebM — слободни формат</string>
+    <string name="m4a_description">m4a — бољи квалитет</string>
+    <string name="download_dialog_title">Преузми</string>
+    <string name="next_video_title">Следећи видео</string>
+    <string name="url_not_supported_toast">УРЛ није подржан</string>
+    <string name="show_next_and_similar_title">Прикажи следећи и слични видео</string>
+    <string name="search_language_title">Пожељни језик садржаја</string>
+    <string name="settings_category_video_audio_title">Видео и аудио</string>
+    <string name="settings_category_other_title">Остало</string>
+    <string name="list_thumbnail_view_description">Сличица видео прегледа</string>
+    <string name="detail_thumbnail_view_description">Сличица видео прегледа</string>
+    <string name="detail_uploader_thumbnail_view_description">Сличица отпремаоца</string>
+    <string name="detail_dislikes_img_view_description">Несвиђања</string>
+    <string name="detail_likes_img_view_description">Свиђања</string>
+    <string name="use_external_video_player_title">Користи спољашњи видео плејер</string>
+    <string name="use_external_audio_player_title">Користи спољашњи аудио плејер</string>
+    <string name="background_player_playing_toast">Пуштам у позадини</string>
+
+    <string name="play_btn_text">Пусти</string>
+
+    <string name="use_tor_title">Користи Тор</string>
+    <string name="use_tor_summary">(Експериментално) Принудно преусмерење саобраћаја кроз Тор за доданту приватност (токови још нису подржани).</string>
+    <string name="theme_title">Тема</string>
+    <string name="dark_theme_title">Тамна</string>
+    <string name="light_theme_title">Светла</string>
+
+    <string name="settings_category_appearance_title">Изглед</string>
+    <string name="network_error">Грешка мреже</string>
+
+    <string name="download_path_audio_title">Одредиште преузимања за аудио</string>
+    <string name="download_path_audio_dialog_title">Унесите путању за преузимање аудио фајлова.</string>
+
+    <string name="download_path_audio_summary">Путања за упис преузетих аудио фајлова</string>
+    <string name="info_dir_created">Направљен директоријум за преузимање „%1$s“</string>
+    <string name="err_dir_create">Не могу да направим директоријум за преузимање„ %1$s“</string>
+    <string name="general_error">Грешка</string>
+    <string name="could_not_load_thumbnails">Не могох да учитам све сличице</string>
+    <string name="youtube_signature_decryption_error">Не могох да дешифрујем потпис видео урл-а.</string>
+    <string name="parsing_error">Не могох да рашчланим веб-сајт.</string>
+    <string name="content_not_available">Садржај није доступан.</string>
+    <string name="blocked_by_gema">Блокирала ГЕМА.</string>
+
+    <string name="content">Садржај</string>
+    <string name="show_age_restricted_content_title">Прикажи старосно-ограничени садржај</string>
+    <string name="video_is_age_restricted">Видео је старосно ограничен. Укључите премошћавање у поставкама.</string>
+
+    <string name="could_not_setup_download_menu">Не могох да поставим мени преузимања.</string>
+    <string name="live_streams_not_supported">Ово је ТОК. Токови још нису подржани.</string>
+
+
+    <string name="light_parsing_error">Не могох да рашчланим веб-сајт у целости.</string>
+    <string name="could_not_get_stream">Не могох да добавим ниједан ток.</string>
+    <string name="sorry_string">Нажалост, то не би требало да се деси.</string>
+    <string name="error_report_button_text">Пријавите грешку е-поштом</string>
+    <string name="error_snackbar_message">Нажалост, десиле су се неке грешке.</string>
+    <string name="error_snackbar_action">ПРИЈАВИ</string>
+    <string name="what_device_headline">Подаци:</string>
+    <string name="what_happened_headline">Шта се десило:</string>
+    <string name="your_comment">Ваш коментар (на енглеском):</string>
+    <string name="error_details_headline">Детаљи:</string>
+
+
+    <string name="video">Видео</string>
+    <string name="audio">Аудио</string>
+    <string name="retry">Покушај поново</string>
+    <string name="storage_permission_denied">Дозвола за приступ складишту је одбијена</string>
+    <string name="report_error">Пријавите грешку</string>
+    <string name="user_report">Извештај корисника</string>
+
+    <string name="duration_live">уживо</string>
+
+    <string name="main_bg_subtitle">Тапните на претрагу за почетак</string>
+    <string name="autoplay_by_calling_app_title">Пусти по позиву друге апликације</string>
+    <string name="autoplay_by_calling_app_summary">Аутоматско пуштање видеа по позиву друге апликације.</string>
+    <string name="start">Почни</string>
+    <string name="pause">Паузирај</string>
+    <string name="view">Приказ</string>
+    <string name="delete">Обриши</string>
+    <string name="checksum">Хеш</string>
+
+    <string name="add">Нова мисија</string>
+    <string name="finish">У реду</string>
+
+
+    <string name="msg_name">Назив фајла</string>
+    <string name="msg_threads">Нити</string>
+    <string name="msg_error">Грешка</string>
+    <string name="msg_server_unsupported">Сервер није подржан</string>
+    <string name="msg_exists">Фајл већ постоји</string>
+    <string name="msg_url_malform">Неисправан УРЛ или нема интернета</string>
+    <string name="msg_running">Њупајп преузимање</string>
+    <string name="msg_running_detail">Тапните за детаље</string>
+    <string name="msg_wait">Сачекајте…</string>
+    <string name="msg_copied">Копирано у привремену меморију.</string>
+    <string name="no_available_dir">Одредите доступну фасциклу за преузимање.</string>
+
+    <string name="downloads">Преузимања</string>
+    <string name="downloads_title">Преузимања</string>
+    <string name="error_report_title">Извештај о грешци</string>
+
+    <string name="could_not_load_image">Не могох да учитам слику</string>
+    <string name="app_ui_crash">Апликација/УИ је краховала</string>
+    <string name="info_labels">Шта:\\nЗахтев:\\nЈезик садржаја:\\nУслуга:\\nГМТ време:\\nПакет:\\nИздање:\\nИздање ОС-а:\\nГлоб. ИП распон:</string>
+
+    <string name="reCaptchaActivity">Стопка</string>
+    <string name="reCaptcha_title">reCAPTCHA стопка</string>
+
+    <string name="recaptcha_request_toast">Решите reCAPTCHA стопку</string>
+
+    <string name="black_theme_title">Црна</string>
+
+    <string name="all">Сви</string>
+    <string name="channel">Канал</string>
+
+    <string name="videos">видеа</string>
+    <string name="subscriber">пријављених</string>
+    <string name="views">прегледа</string>
+    <string name="short_thousand">хиљ</string>
+    <string name="short_million">мил</string>
+    <string name="short_billion">млрд</string>
+
+    <string name="yes">Да</string>
+    <string name="later">Касније</string>
+
+    <string name="subscribe">Пријави ме</string>
+
+    <string name="open_in_popup_mode">Отвори у искачућем режиму</string>
+    <string name="msg_popup_permission">Ова дозвола је потребна за
+отварање у искачућем режиму</string>
+
+    <string name="popup_mode_share_menu_title">Режим прозорчета</string>
+
+    <string name="popup_playing_toast">Пуштање у режиму прозорчета</string>
+    <string name="disabled">Искључено</string>
+
+    <string name="use_old_player_title">Користи стари плејер</string>
+    <string name="preferred_video_format_title">Пожељни формат видеа</string>
+    <string name="default_popup_resolution_title">Резолуција искачућег прозора</string>
+    <string name="show_higher_resolutions_title">Прикажи више резолуције</string>
+    <string name="show_higher_resolutions_summary">Само неки уређаји подржавају пуштање 2k/4k видеа</string>
+    <string name="subscriber_plural">пријављених</string>
+    <string name="filter">Филтер</string>
+    <string name="refresh">Освежи</string>
+    <string name="clear">Очисти</string>
+
+    <string name="controls_background_title">Позадина</string>
+    <string name="controls_popup_title">Прозорче</string>
+
+    <string name="use_external_video_player_summary">Неке резолуције биће БЕЗ звука када је ова опција укључена</string>
+    <string name="popup_remember_size_pos_title">Упамти величину и позицију искачућег прозора</string>
+    <string name="popup_remember_size_pos_summary">Памти последњу величину и позицију за искачући прозор</string>
+    <string name="player_gesture_controls_title">Контроле прејера потезом</string>
+    <string name="player_gesture_controls_summary">Користите потезе за управљање осветљајем у јачином звука</string>
+    <string name="show_search_suggestions_title">Предлози у претрази</string>
+    <string name="show_search_suggestions_summary">Приказује предлоге током претраге</string>
+
+    <string name="settings_category_popup_title">Искачући прозор</string>
+    <string name="popup_resizing_indicator_title">Мењање величине</string>
+
+    <string name="use_old_player_summary">Стара градња Медијафрејмворк плејера.</string>
+</resources>

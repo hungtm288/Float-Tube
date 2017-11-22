@@ -1,0 +1,186 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+    <string name="view_count_text">%1$s visualizaciones</string>
+    <string name="upload_date_text">Publicado en %1$s</string>
+    <string name="no_player_found">No se encontró ningún reproductor de vídeo. ¿Desea instalar VLC?</string>
+    <string name="install">Instalar</string>
+    <string name="cancel">Cancelar</string>
+    <string name="open_in_browser">Abrir en el navegador</string>
+    <string name="share">Compartir</string>
+    <string name="download">Descargar</string>
+    <string name="search">Buscar</string>
+    <string name="settings">Ajustes</string>
+    <string name="did_you_mean">¿Quiso decir: %1$s?</string>
+    <string name="share_dialog_title">Compartir con</string>
+    <string name="choose_browser">Seleccionar navegador</string>
+    <string name="screen_rotation">rotación</string>
+    <string name="download_path_title">Ruta de descarga de vídeo</string>
+    <string name="download_path_summary">Ruta para almacenar los vídeos descargados</string>
+    <string name="download_path_dialog_title">Introducir directorio de descargas para vídeos</string>
+    <string name="default_resolution_title">Resolución de vídeo por defecto</string>
+    <string name="play_with_kodi_title">Reproducir con Kodi</string>
+    <string name="kore_not_found">Aplicación Kore no encontrada. ¿Instalar Kore?</string>
+    <string name="show_play_with_kodi_title">Mostrar opción \"Reproducir con Kodi\"</string>
+    <string name="show_play_with_kodi_summary">Mostrar una opción para reproducir vídeo con Kodi Media Center</string>
+    <string name="play_audio">Audio</string>
+    <string name="default_audio_format_title">Formato de audio por defecto</string>
+    <string name="webm_description">WebM — formato libre</string>
+    <string name="m4a_description">m4a — mejor calidad</string>
+    <string name="download_dialog_title">Descargar</string>
+    <string name="next_video_title">Siguiente vídeo</string>
+    <string name="url_not_supported_toast">URL no soportada</string>
+    <string name="use_external_video_player_title">Usar reproductor de vídeo externo</string>
+    <string name="use_external_audio_player_title">Usar reproductor de audio externo</string>
+
+    <string name="theme_title">Tema</string>
+    <string name="dark_theme_title">Oscuro</string>
+    <string name="light_theme_title">Ligero</string>
+
+    <string name="settings_category_appearance_title">Apariencia</string>
+    <string name="settings_category_other_title">Otros</string>
+    <string name="background_player_playing_toast">Reproduciendo en segundo plano</string>
+    <string name="content_not_available">Contenido no disponible.</string>
+    <string name="use_tor_title">Usar Tor</string>
+    <string name="use_tor_summary">(Experimental) Forzar la descarga a través de Tor para una mayor privacidad (transmisión de vídeos aún no compatible).</string>
+
+    <string name="err_dir_create">No se puede crear la carpeta de descarga \'%1$s\'</string>
+    <string name="info_dir_created">Carpeta de descarga creada \'%1$s\'</string>
+    <string name="download_path_audio_summary">Ruta para almacenar los audios descargados</string>
+    <string name="download_path_audio_dialog_title">Introducir ruta de descarga para archivos de audio</string>
+
+    <string name="blocked_by_gema">Bloqueado por GEMA.</string>
+
+    <string name="download_path_audio_title">Ruta de descarga de audio</string>
+    <string name="settings_category_video_audio_title">Vídeo y Audio</string>
+    <string name="play_btn_text">Reproducir</string>
+    <string name="general_error">Error</string>
+    <string name="network_error">Error de conexión</string>
+    <string name="could_not_load_thumbnails">No se pudo cargar las miniaturas</string>
+    <string name="youtube_signature_decryption_error">No se pudo descifrar la URL del vídeo.</string>
+    <string name="parsing_error">No se pudo analizar el sitio web.</string>
+    <string name="show_next_and_similar_title">Mostrar vídeos siguientes y similares</string>
+    <string name="search_language_title">Idioma preferido del contenido</string>
+    <string name="list_thumbnail_view_description">Vista previa del vídeo</string>
+    <string name="detail_thumbnail_view_description">Vista previa del vídeo</string>
+    <string name="detail_likes_img_view_description">Me gusta</string>
+    <string name="detail_dislikes_img_view_description">No me gusta</string>
+    <string name="detail_uploader_thumbnail_view_description">Foto miniatura del usuario</string>
+    <string name="live_streams_not_supported">Esta es una transmisión en vivo. Todavía no es compatible.</string>
+
+
+    <string name="content">Contenido</string>
+    <string name="show_age_restricted_content_title">Mostrar contenido restringido por edad</string>
+    <string name="video_is_age_restricted">El vídeo tiene restricción de edad. Active los vídeos con restricción de edad en los ajustes.</string>
+
+    <string name="main_bg_subtitle">Toque buscar para empezar</string>
+    <string name="autoplay_by_calling_app_title">Autoreproducir al llamar desde otra app</string>
+    <string name="autoplay_by_calling_app_summary">Reproducir automáticamente un vídeo cuando NewPipe es llamado desde otra aplicación</string>
+    <string name="duration_live">en vivo</string>
+    <string name="downloads">Descargas</string>
+    <string name="downloads_title">Descargas</string>
+    <string name="error_report_title">Reportar error</string>
+
+    <string name="light_parsing_error">No se pudo analizar el sitio web completamente.</string>
+    <string name="could_not_setup_download_menu">No se pudo configurar el menú de descarga.</string>
+    <string name="could_not_get_stream">No se pudo obtener ninguna transmisión.</string>
+    <string name="sorry_string">Lo siento, esto no debería haber ocurrido.</string>
+    <string name="error_report_button_text">Reportar error vía email</string>
+    <string name="error_snackbar_message">Lo siento, ocurrieron algunos errores.</string>
+    <string name="error_snackbar_action">REPORTAR</string>
+    <string name="what_device_headline">Información:</string>
+    <string name="what_happened_headline">Qué ha ocurrido:</string>
+    <string name="your_comment">Su comentario (en Inglés):</string>
+    <string name="error_details_headline">Detalles:</string>
+
+
+    <string name="report_error">Reportar un error</string>
+    <string name="user_report">Reporte de usuario</string>
+
+    <string name="video">Vídeos</string>
+
+    <string name="audio">Audio</string>
+    <string name="retry">Reintentar</string>
+    <string name="storage_permission_denied">El permiso de acceso al almacenamiento fue negado</string>
+
+    <string name="start">Iniciar</string>
+    <string name="pause">Pausar</string>
+    <string name="view">Reproducir</string>
+    <string name="delete">Eliminar</string>
+    <string name="checksum">Checksum</string>
+
+    <string name="add">Nueva misión</string>
+    <string name="finish">Ok</string>
+
+    <string name="msg_name">Nombre del archivo</string>
+    <string name="msg_threads">Conexiones simultáneas</string>
+    <string name="msg_error">Error</string>
+    <string name="msg_server_unsupported">Servidor no soportado</string>
+    <string name="msg_exists">El archivo ya existe</string>
+    <string name="msg_url_malform">URL mal formada o Internet no disponible</string>
+    <string name="msg_running">Descarga de NewPipe</string>
+    <string name="msg_running_detail">Toque para ver detalles</string>
+    <string name="msg_wait">Espere, por favor …</string>
+    <string name="msg_copied">Copiado al portapapeles.</string>
+    <string name="no_available_dir">Por favor, seleccione un directorio de descarga disponible.</string>
+
+    <string name="could_not_load_image">No se pudo cargar la imagen</string>
+    <string name="app_ui_crash">La interfaz de la app dejó de funcionar</string>
+    <string name="info_labels">Lo sucedido:\\nSolicitud:\\nIdioma del contenido:\\nServicio:\\nHora GMT:\\nPaquete:\\nVersión:\\nVersión del S.O:\\nRango global de la IP:</string>
+
+    <string name="black_theme_title">Oscuro</string>
+
+    <string name="all">Todo</string>
+    <string name="channel">Canal</string>
+    <string name="yes">Sí</string>
+    <string name="later">Después</string>
+
+    <string name="videos">videos</string>
+    <string name="subscriber">suscriptor</string>
+    <string name="subscribe">Suscribirse</string>
+    <string name="views">visualizaciones</string>
+    <string name="short_thousand">K</string>
+    <string name="short_million">M</string>
+    <string name="short_billion">MM</string>
+
+    <string name="reCaptchaActivity">reCAPTCHA</string>
+    <string name="open_in_popup_mode">Abrir en modo popup</string>
+    <string name="msg_popup_permission">Este permiso es necesario para
+abrir en modo popup</string>
+
+    <string name="reCaptcha_title">reCAPTCHA Challenge</string>
+    <string name="recaptcha_request_toast">reCAPTCHA Challenge requerido</string>
+
+    <string name="popup_mode_share_menu_title">Modo popup de NewPipe</string>
+
+    <string name="popup_playing_toast">Reproduciendo en modo popup</string>
+    <string name="use_old_player_title">Usar reproductor antiguo</string>
+    <string name="use_old_player_summary">Versión antigua en reproductor Media Framework.</string>
+    <string name="preferred_video_format_title">Formato de vídeo por defecto</string>
+    <string name="disabled">Desactivado</string>
+
+    <string name="subscriber_plural">Suscriptores</string>
+    <string name="show_higher_resolutions_title">Mostrar resoluciones más altas</string>
+    <string name="show_higher_resolutions_summary">Solo algunos dispositivos soportan reproducción de vídeos en 2K/4K</string>
+    <string name="default_popup_resolution_title">Resolución del popup por defecto</string>
+    <string name="controls_background_title">Segundo plano</string>
+    <string name="controls_popup_title">Popup</string>
+
+    <string name="filter">Filtro</string>
+    <string name="refresh">Actualizar</string>
+    <string name="clear">Limpiar</string>
+
+    <string name="popup_remember_size_pos_title">Recordar tamaño y posición del popup</string>
+    <string name="popup_remember_size_pos_summary">Recordar el último tamaño y posición establecido para el popup</string>
+
+    <string name="settings_category_popup_title">Popup</string>
+    <string name="popup_resizing_indicator_title">Redimensionando</string>
+
+    <string name="use_external_video_player_summary">Algunas resoluciones podrían no tener audio cuando esta opción está activada</string>
+    <string name="player_gesture_controls_title">Controles de gestos del reproductor</string>
+    <string name="player_gesture_controls_summary">Usar gestos para controlar el brillo y volumen del reproductor</string>
+    <string name="show_search_suggestions_title">Sugerencias de búsqueda</string>
+    <string name="show_search_suggestions_summary">Mostrar sugerencias cuando esté buscando</string>
+
+<string name="best_resolution">Mejor resolución</string>
+
+    </resources>
